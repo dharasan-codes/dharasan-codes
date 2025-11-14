@@ -9,11 +9,12 @@
 ## My Tech Stack <br />
 Frontend: HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React.js <br />
 Backend: Node.js | Express.js <br />
-Database: MongoDB <br />
+Database: MongoDB | MySQL<br />
 Version Control: Git | GitHub <br />
 
 <a href="https://www.linkedin.com/in/dharsan-b-121233233/" target="_blank">LinkedIn</a>  
 <a href="mailto:dharsan2226@gmail.com" target="_blank">Email Me</a>
+<a href="https://leetcode.com/u/Dharsan_B/" target="_blank">Leetcode</a>
 
 <!--
 **dharasan-codes/dharasan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
