@@ -13,7 +13,7 @@ Database: MongoDB | MySQL<br />
 Version Control: Git | GitHub <br />
 
 <a href="https://www.linkedin.com/in/dharsan-b-121233233/" target="_blank">LinkedIn</a>  
-<a href="mailto:dharsan2226@gmail.com" target="_blank">Email Me</a>
+<a href="mailto:dharsan2226@gmail.com" target="_blank">Email Me</a> <br />
 <a href="https://leetcode.com/u/Dharsan_B/" target="_blank">Leetcode</a>
 
 <!--
